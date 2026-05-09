@@ -1,11 +1,3 @@
-# dm-exporter
-这是一份为你量身定制的、可以直接提交到代码仓库（GitLab/GitHub）的专业级 `README.md`。
-
-它采用了目前开源社区最标准的排版规范，包含了你从编译、部署到配置 Grafana 大盘所需的所有核心知识，堪称这份监控项目的“白皮书”。
-
-你可以直接全选复制以下内容，保存为 `README.md`。
-
----
 
 # 🐉 Dameng Fullstack Exporter (达梦全栈监控采集器)
 
